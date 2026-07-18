@@ -1,6 +1,6 @@
 # Resolvendo Códigos em Python com o Github Copilot
 
-Olá!! Aqui veremos algumas resoluções de códigos em python utilizando o Github Copilot.
+Desafio da Formação Github Certification - DIO (https://www.dio.me/) - Utilizando as Ferramentas do GitHub para Solucionar Algoritmos em Python. Aqui veremos algumas resoluções de códigos em python utilizando o Github Copilot.
 
 ### Atenção ⚠️ 
 
